@@ -1,0 +1,87 @@
+Enhanced Knowledge Base for the XP500 Demolition Hammer
+XP500 Demolition Hammer
+
+Specifications:
+
+Motor: High-power electric motor (1500 W).
+
+Impacts per minute: 0–4000 ipm.
+
+Impact energy: 20 J.
+
+Weight: 5 kg.
+
+Connectivity: Wi-Fi (for monitoring and diagnostics).
+
+Troubleshooting
+
+Does not turn on:
+
+Check that the battery is fully charged and properly connected.
+Wait 30 seconds after connecting the battery to allow the system to initialize.
+Make sure the on/off switch is in the correct position.
+If the problem persists, contact technical support at 0800 555 5555.
+
+Does not reverse:
+
+Check that the reverse lever is properly engaged.
+Check for any obstruction preventing the bit from moving.
+If the problem persists, turn off the demolition hammer and contact technical support.
+Wi-Fi does not connect:
+Check that the demolition hammer’s Wi-Fi is enabled.
+Make sure you are entering the correct Wi-Fi network password.
+Restart the demolition hammer and try connecting again.
+If the problem persists, consult the manual for connectivity troubleshooting instructions.
+
+Overheating:
+
+Turn off the demolition hammer and allow it to cool down for a few minutes.
+Check that the air vents are not obstructed.
+Avoid continuous use for long periods; take regular breaks.
+
+Excessive vibration:
+
+Check that the bit is properly secured.
+
+Make sure the working surface is level and stable.
+
+If the vibration persists, turn off the demolition hammer and contact technical support.
+
+Simplified User Manual
+Battery charging:
+
+Connect the charger to the demolition hammer and to a power outlet.
+
+Wait until the charging indicator light turns green.
+
+Bit installation:
+
+Insert the bit into the chuck and tighten it firmly using the wrench.
+
+Operation:
+
+Hold the demolition hammer firmly with both hands.
+
+Turn on the tool and position the bit on the work surface.
+
+Apply gradual pressure to start drilling.
+
+Use the reverse lever to change the rotation direction of the bit.
+
+Take regular breaks to prevent overheating.
+
+Maintenance:
+
+Clean the demolition hammer after each use.
+
+Periodically check the condition of the bit and replace it if necessary.
+
+Store the demolition hammer in a dry and safe place.
+
+Notes
+
+Always use personal protective equipment (PPE) when operating the demolition hammer.
+
+Consult the full manual for detailed information on the use and maintenance of the XP500 demolition hammer.
+
+If you have any questions or problems, contact technical support at 0800 555 5555.
