@@ -11,10 +11,6 @@ dist/
 build/
 *.so
 
-# Jupyter Notebooks
-.ipynb_checkpoints/
-*.ipynb
-
 # VS Code
 .vscode/
 
@@ -33,7 +29,6 @@ Thumbs.db
 
 # Others
 *.sqlite3
-*.db
 *.bak
 *.tmp
 *.swp
